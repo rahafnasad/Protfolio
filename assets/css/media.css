@@ -1,0 +1,36 @@
+@media (max-width:991px){
+    .nav-item{
+        width: fit-content;
+    }
+}
+@media (max-width:680px){
+  .contact-info .container{
+    left: 0;
+
+  }
+}
+@media (max-width:768px){
+    .about .count {
+border: none !important;
+    }
+    .download .brand{
+        justify-content: center !important;
+    }
+    .protfolio #Photography-tab {
+        margin-top: 20px !important;
+    }
+}
+@media (max-width:568px){
+    header {
+        background-position-x: -235px ;
+        background-size: cover;
+    }
+    .heder-content  {
+        align-items: start !important;
+
+    }
+    h1{
+        font-size: 45px;
+    }
+
+}
